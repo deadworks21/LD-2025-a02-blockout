@@ -27,7 +27,3 @@ This tone drove the layout decisions: sparse lighting, pitch-black negative spac
   - reveal/close routes at key sight-lines.
 - Implement at least one **collectible** to pull the player through the space.
 - Block-out **custom materials** (floor / walls / ceiling) to clarify navigation.
-
----
-
-## 📂 Repository Layout
